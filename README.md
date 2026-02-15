@@ -26,7 +26,9 @@ CoqHammer: https://people.ciirc.cvut.cz/~chvalkar/coqhammer/
 
 ### Dataset Splits
 
+The splits can be found in folders trainSplits and testSplits in this repository.
 
+The TPTP folder contains the list of TPTP problems used (both for training and evaluation).
 
 ### Hyperparams used by individual experiments
 
