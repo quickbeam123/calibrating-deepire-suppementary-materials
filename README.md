@@ -16,7 +16,16 @@ The main entry point is the script `elooper.py` to be run as in `elooper.py <num
 
 This scripts looks into `hyperparams.py` for all other configuration.
 
-### Dataset splits
+### Datasets Download
+
+Mizar40: http://grid01.ciirc.cvut.cz/~mptp/1147/MPTP2/problems_small_consist.tar.gz
+
+Isabelle: https://github.com/ai4reason/isa_enigma_paper
+
+CoqHammer: https://people.ciirc.cvut.cz/~chvalkar/coqhammer/
+
+### Dataset Splits
+
 
 
 ### Hyperparams used by individual experiments
