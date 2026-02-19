@@ -32,6 +32,12 @@ The TPTP folder contains the list of TPTP problems used (both for training and e
 
 ### Hyperparams used by individual experiments
 
+See the folder experimentHyperparams.
+
+Naming conventions:
+* newDefaults - are experiments on TPTP
+* champ - stands for the champion strategies (1-5 on TPTP; all5champs for the single model for all 5 together) and always 1 for each of the three remaining datasets
+* smartAgain - the experiment on TPTP with strategy without ordering constraints and with unrestricted literal selection
 
 ### Continuous Development
 
